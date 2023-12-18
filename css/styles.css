@@ -530,7 +530,7 @@ img, video, iframe, embed, object {
     color: #000000;
 }
 .Video-infor-content{
-	font-size: 18px;
+	font-size: 20px;
 	color: #212121;
 	letter-spacing: 0;
 	padding-top: 20px;
@@ -1153,7 +1153,7 @@ footer .form-control{
 @media (max-width: 1680px) {
 
 .Video-infor-content{
-	font-size: 14px;
+	font-size: 18px;
 	padding-top: 10px;
 }
 .banner_title {
